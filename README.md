@@ -1,5 +1,5 @@
 # World War
-### A 2D shooting game
+#### A 2D shooting game
 
 ## Tools used
 
